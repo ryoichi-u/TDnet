@@ -1,5 +1,5 @@
 {
-    "name": "ryoichi-u/TDnet",
+    "name": "ryoichi-u/tdnet",
     "authors": [
         {
             "name": "ryoichi-u",
@@ -7,8 +7,8 @@
         }
     ],
     "require": {
-        "guzzlehttp/guzzle": "^6.3",
-        "nesbot/carbon": "^1.22"
+        "guzzlehttp/guzzle": "^7.12.1",
+        "nesbot/carbon": "^2.72.6"
     },
     "autoload": {
         "psr-4": {
